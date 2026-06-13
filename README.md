@@ -1,0 +1,2 @@
+# TripSync
+Collaborative Trip Planner
